@@ -6,8 +6,8 @@
 - 32-bit process injects 64-bit process
 
 ## Dependencies
-- loaddll_shellcode(the shellcode to load a specific dll)
-- Exe2Shellcode(a stub to load exe)
+- [loaddll_shellcode(the shellcode to load a specific dll)](https://github.com/H4ckF0rFun/LoadDll-Shellcode)
+- [Exe2Shellcode(a stub to load exe)](https://github.com/H4ckF0rFun/Exe2Shellcode)
 
 ## How to use?
 - 64-bit process inject dll to 64-bit explorer.exe
